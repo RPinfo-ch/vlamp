@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# platform io
+.pio
+
+# jetbrain
+.idea
